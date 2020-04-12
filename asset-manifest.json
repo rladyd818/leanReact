@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/leanreact/static/css/main.34225b5b.chunk.css",
+    "main.js": "/github.io/leanreact/static/js/main.9ef595f9.chunk.js",
+    "main.js.map": "/github.io/leanreact/static/js/main.9ef595f9.chunk.js.map",
+    "runtime-main.js": "/github.io/leanreact/static/js/runtime-main.70f686e3.js",
+    "runtime-main.js.map": "/github.io/leanreact/static/js/runtime-main.70f686e3.js.map",
+    "static/js/2.111c2b99.chunk.js": "/github.io/leanreact/static/js/2.111c2b99.chunk.js",
+    "static/js/2.111c2b99.chunk.js.map": "/github.io/leanreact/static/js/2.111c2b99.chunk.js.map",
+    "index.html": "/github.io/leanreact/index.html",
+    "precache-manifest.ce22b9bffe8824554f91a1d36f1d6670.js": "/github.io/leanreact/precache-manifest.ce22b9bffe8824554f91a1d36f1d6670.js",
+    "service-worker.js": "/github.io/leanreact/service-worker.js",
+    "static/css/main.34225b5b.chunk.css.map": "/github.io/leanreact/static/css/main.34225b5b.chunk.css.map",
+    "static/js/2.111c2b99.chunk.js.LICENSE.txt": "/github.io/leanreact/static/js/2.111c2b99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70f686e3.js",
+    "static/js/2.111c2b99.chunk.js",
+    "static/css/main.34225b5b.chunk.css",
+    "static/js/main.9ef595f9.chunk.js"
+  ]
+}
